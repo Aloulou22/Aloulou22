@@ -6,11 +6,11 @@ Software engineering student at Higher Institute of Computer Science and Mathema
 
 ### Areas of Interest
 
-- **Agentic AI** — multi-agent architectures, tool use, planning loops
-- **LLM Evaluation** — production observability, prompt failure analysis, behavioral testing
-- **RAG Systems** — semantic search, vector stores, multilingual embeddings
-- **Data Engineering** — end-to-end pipelines, orchestration, real-time streaming
-- **DevOps & Cloud** — automation, containerization, monitoring, infrastructure as code
+- **Agentic AI** : multi-agent architectures, tool use, planning loops
+- **LLM Evaluation** : production observability, prompt failure analysis, behavioral testing
+- **RAG Systems** : semantic search, vector stores, multilingual embeddings
+- **Data Engineering** : end-to-end pipelines, orchestration, real-time streaming
+- **DevOps & Cloud** : automation, containerization, monitoring, infrastructure as code
 
 ---
 
